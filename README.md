@@ -162,7 +162,7 @@ Steps
 
 1. Clone the repository:
 
-git clone https://github.com/Iswarya-T-20/smart-library-management-system.git
+git clone https://github.com/Iswarya-T-20/SmartLibraryManagementSystem.git
 
 2. Open the project in Eclipse IDE.
 
